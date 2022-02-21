@@ -1,5 +1,8 @@
 ### Olá! Me chamo Rafael e sou um programador especializado em Java e seus frameworks. Tenho como objetivo me tornar um programador indispensável aos olhos de qualquer empresa. Vem comigo ! 🚀🌍
 
+📘 - Atualmente estou estudando, aprimorando meus conhecimentos em: Spring Boot e seus módulos, Docker, AWS, GitHub e tecnologias de front end.
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
