@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**rafaelhazevedo61/rafaelhazevedo61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Me chamo Rafael e sou um programador especializado em Java e seus frameworks. Tenho como objetivo me tornar um programador indispensável aos olhos de qualquer empresa. Vem comigo ! 🚀🌍
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
