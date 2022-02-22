@@ -1,8 +1,18 @@
+### Hi! My name is Rafael and i am a programmer specialized in Java and its frameworks. I aim to become indispensable programmer in the eyes of any company. Come with me ! 🚀🌍
+
+📚 - I am currently studying and improving my kwnoledge in Spring Boot e seus módulos, Docker, AWS, GitHub e tecnologias de front end.
+
+📫 - My contact email is rafaelhazevedo61@gmail.com
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Olá! Me chamo Rafael e sou um programador especializado em Java e seus frameworks. Tenho como objetivo me tornar um programador indispensável aos olhos de qualquer empresa. Vem comigo ! 🚀🌍
 
-📚 - Atualmente estou estudando, aprimorando meus conhecimentos em: Spring Boot e seus módulos, Docker, AWS, GitHub e tecnologias de front end.
+📚 - Atualmente estou estudando e aprimorando meus conhecimentos em Spring Boot e seus módulos, Docker, AWS, GitHub e tecnologias de front end.
 
 📫 - Meu email para contato é rafaelhazevedo61@gmail.com
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
   <a href="https://github.com/rafaelhazevedo61">
